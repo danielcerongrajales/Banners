@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/danielcerongrajales/Banners/compare/v1.1.0...v1.2.0) (2021-04-10)
+
+
+### Features
+
+*  first initial version android project ([fb3d72a](https://github.com/danielcerongrajales/Banners/commit/fb3d72abad8f3653217d8179fe426dd664543112))
+
 ## [1.1.0](https://github.com/danielcerongrajales/Banners/compare/v1.0.0...v1.1.0) (2021-03-24)
 
 
